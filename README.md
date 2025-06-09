@@ -15,11 +15,11 @@
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas para as seguintes tarefas:
 
+<!--
 - [x] Tarefa 1
 - [x] Tarefa 2
-- [x] Tarefa 3
-- [ ] Tarefa 4
-- [ ] Tarefa 5
+- [x] Tarefa 3 -->
+- [ ] Mecanização da barra de pesquisa
 
 <!--## 💻 Pré-requisitos
 
@@ -75,7 +75,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="[EllenG4brielly](https://github.com/EllenG4brielly)" title="GitHub da Ellen">
-        <img src="[https://avatars3.githubusercontent.com/u/31936044](https://avatars.githubusercontent.com/u/120142059?v=4)" width="100px;" alt="Foto Ellen Gabrielly no GitHub"/><br>
+        <img src="(https://avatars.githubusercontent.com/u/120142059?v=4)" width="100px;" alt="Foto Ellen Gabrielly no GitHub"/><br>
         <sub>
           <b>Ellen Gabrielly</b>
         </sub>

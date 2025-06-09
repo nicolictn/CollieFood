@@ -6,7 +6,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-<img src="imagem.png" alt="Exemplo imagem">
+<img src="collie food.png" alt="Exemplo imagem">
 
 <!-- Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.-->
 > Aplicativo para armazenamento de receitas pessoais ou favoritas.
@@ -74,8 +74,8 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 <table>
   <tr>
     <td align="center">
-      <a href="ellie.jpg" title="GitHub da Ellen">
-        <img src="(https://avatars.githubusercontent.com/u/120142059?v=4)" width="100px;" alt="Foto Ellen Gabrielly no GitHub"/><br>
+      <a href="[ellie.jpg](https://github.com/EllenG4brielly)" title="GitHub da Ellen">
+        <img src="ellie.jpg" width="100px;" alt="Foto Ellen Gabrielly no GitHub"/><br>
         <sub>
           <b>Ellen Gabrielly</b>
         </sub>

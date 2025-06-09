@@ -74,7 +74,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 <table>
   <tr>
     <td align="center">
-      <a href="[EllenG4brielly](https://github.com/EllenG4brielly)" title="GitHub da Ellen">
+      <a href="ellie.jpg" title="GitHub da Ellen">
         <img src="(https://avatars.githubusercontent.com/u/120142059?v=4)" width="100px;" alt="Foto Ellen Gabrielly no GitHub"/><br>
         <sub>
           <b>Ellen Gabrielly</b>
